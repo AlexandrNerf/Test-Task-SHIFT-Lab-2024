@@ -20,3 +20,5 @@
 Модель: UNet Generator + Patch Discriminator (pix2pix architecture) + BERTEncoder (токенайзер)
 
 Датасет: MJSynth-english
+
+Посмотреть веса и ноутбуки в коллабе можно по ссылке: https://drive.google.com/drive/folders/18eGr1kytp9esQ9sVJN_oQa0zxRONp-Gw
